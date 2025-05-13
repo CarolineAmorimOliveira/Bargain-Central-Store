@@ -1,11 +1,27 @@
-## Bargain Central Store – Abstraction Project
+# Bargain-Central-Store
 
-This JavaScript program simulates a shopping experience at an online store, using **functions** and **abstraction** to calculate totals and tax.
+This JavaScript program was created for my AP Computer Science Principles class as part of the **Using Abstractions Project**.  
+It simulates an online shopping experience, using **functions** to calculate totals and apply tax.
 
-### Features:
-- Prompts the user to name and buy three items
-- Calculates and displays totals for each item using a custom function
-- Calculates subtotal and total (with tax) using reusable functions
-- Rounds prices to two decimal places
+## Features
 
-Created as part of the "Using Abstractions" project in AP Computer Science Principles.
+- Prompts the user to enter names and quantities for three items
+- Displays prices and calculates totals for each item
+- Uses custom functions to:
+  - Calculate the total price per item
+  - Calculate the subtotal and total (with tax)
+- Rounds all totals to two decimal places
+
+## Purpose
+
+This project was made to practice **functions**, **parameters**, **return values**, and basic math operations in JavaScript.
+
+> Note: I’m keeping the original code structure as written during the project — it reflects my learning process and growing skills!
+
+## Author
+
+Caroline Amorim Oliveira
+
+## License
+
+MIT License
